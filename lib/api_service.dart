@@ -1,5 +1,5 @@
 import 'dart:convert';
-import 'package:http/http.dart' as http
+import 'package:http/http.dart' as http;
 
 class ApiService {
   static const String baseUrl = "http://192.168.100.192:8000/api";
