@@ -8,7 +8,7 @@ class ApiService {
     required String name,
     required String address,
     required String age,
-    required String emai,
+    required String email,
     required String password,
     required String fileName,
     required List<int>? fileBytes,
